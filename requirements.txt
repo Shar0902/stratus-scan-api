@@ -3,3 +3,4 @@ uvicorn[standard]
 dnspython
 requests
 python-dotenv
+pydantic[email]
